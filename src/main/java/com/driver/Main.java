@@ -1,5 +1,6 @@
 package com.driver;
 
+//Class with methods
 public class Main {
 
     public static class A{
